@@ -1,6 +1,6 @@
 # hello, i'm neumatic
 
-i make alright software
+i make decent software
 
 ## wanna work together?
 
